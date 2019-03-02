@@ -10,23 +10,23 @@
             </respStmt>
          </fileDesc>
 		 <listPerson type="historical">
-		  <person xml:id="2341">
-		    <persName> Екатерина </persName>
+		  	<person xml:id="2341">
+		    	<persName> Екатерина </persName>
 			<persName> Минерва </persName>
-		  <person xml:id="3698">
-            <persName> Гомер </persName>
+		  	<person xml:id="3698">
+            		<persName> Гомер </persName>
 			<persName> певец богов </persName>
 			<persName> великий муж </persName>
-		  <person xml:id="1234">
-		    <persName> Спиридов </persName>
-		  <person xml:id="5678">
-		    <persName> Орлов </persName> 
+		 	<person xml:id="1234">
+		    	<persName> Спиридов </persName>
+		  	<person xml:id="5678">
+		   	<persName> Орлов </persName> 
 		 </listPerson>
 		 <listPerson type="bookish">
-		 <person xml:id="7410">
-            <persName> я </persName>
-		 <person xml:id="7984">
-		    <persName> мы </persName>
+		 	<person xml:id="7410">
+           		<persName> я </persName>
+			<person xml:id="7984">
+		   	<persName> мы </persName>
 		 </listPerson>	  
     </teiHeader>
 	<text> 
@@ -146,6 +146,7 @@
 Смутились небеса и страшной брани ждут;
 Одни россияне против срацин текут;
 	
+	</text>
 	
 	
 	
