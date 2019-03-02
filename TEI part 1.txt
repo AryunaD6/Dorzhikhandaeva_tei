@@ -1,8 +1,8 @@
 <TEI>
-	<teiHeader> Отрывок 1 </teiHeader>   
+	<teiHeader>  
         <fileDesc>
             <titleStmt>
-               <title> А.А. Бестужев-Мерлинсикий "Мулла-нур" </title>
+               <title> А.А. Бестужев-Мерлинсикий "Мулла-нур" (1) </title>
             </titleStmt>
             <respStmt>
                 <persName> Арюна Доржихандаева </persName>
@@ -18,11 +18,11 @@
 
 
 
-TEI>
-	<teiHeader> Отрывок 2 </teiHeader>   
+<TEI>
+	<teiHeader> 
         <fileDesc>
             <titleStmt>
-               <title> А.А. Бестужев-Мерлинсикий "Мулла-нур" </title>
+               <title> А.А. Бестужев-Мерлинсикий "Мулла-нур" (2) </title>
             </titleStmt>
             <respStmt>
                 <persName> Арюна Доржихандаева </persName>
@@ -38,11 +38,11 @@ TEI>
 
 
 
-TEI>
-	<teiHeader> Отрывок 3 </teiHeader>   
+<TEI>
+	<teiHeader>  
         <fileDesc>
             <titleStmt>
-               <title> А.А. Бестужев-Мерлинсикий "Мулла-нур" </title>
+               <title> А.А. Бестужев-Мерлинсикий "Мулла-нур" (3) </title>
             </titleStmt>
             <respStmt>
                 <persName> Арюна Доржихандаева </persName>
@@ -60,11 +60,11 @@ TEI>
 		
 
 		
-TEI>
-	<teiHeader> Отрывок 4 </teiHeader>   
+<TEI>
+	<teiHeader> 
         <fileDesc>
             <titleStmt>
-               <title> А.А. Бестужев-Мерлинсикий "Мулла-нур" </title>
+               <title> А.А. Бестужев-Мерлинсикий "Мулла-нур" (4) </title>
             </titleStmt>
             <respStmt>
                 <persName> Арюна Доржихандаева </persName>
@@ -84,11 +84,11 @@ TEI>
 
 
 
-TEI>
-	<teiHeader> Отрывок 5 </teiHeader>   
+<TEI>
+	<teiHeader>
         <fileDesc>
             <titleStmt>
-               <title> А.А. Бестужев-Мерлинсикий "Мулла-нур" </title>
+               <title> А.А. Бестужев-Мерлинсикий "Мулла-нур" (5) </title>
             </titleStmt>
             <respStmt>
                 <persName> Арюна Доржихандаева </persName>
@@ -107,10 +107,10 @@ TEI>
 
 
 <TEI>
-	<teiHeader> Отрывок 6 </teiHeader>   
+	<teiHeader>    
         <fileDesc>
             <titleStmt>
-               <title> А.А. Бестужев-Мерлинсикий "Мулла-нур" </title>
+               <title> А.А. Бестужев-Мерлинсикий "Мулла-нур" (6) </title>
             </titleStmt>
             <respStmt>
                 <persName> Арюна Доржихандаева </persName>
@@ -130,10 +130,10 @@ TEI>
 
 
 <TEI>
-	<teiHeader> Отрывок 7 </teiHeader>   
+	<teiHeader>  
         <fileDesc>
             <titleStmt>
-               <title> А.А. Бестужев-Мерлинсикий "Мулла-нур" </title>
+               <title> А.А. Бестужев-Мерлинсикий "Мулла-нур" (7) </title>
             </titleStmt>
             <respStmt>
                 <persName> Арюна Доржихандаева </persName>
@@ -152,10 +152,10 @@ TEI>
 
 
 <TEI>
-	<teiHeader> Отрывок 8 </teiHeader>   
+	<teiHeader> 
         <fileDesc>
             <titleStmt>
-               <title> А.А. Бестужев-Мерлинсикий "Мулла-нур" </title>
+               <title> А.А. Бестужев-Мерлинсикий "Мулла-нур" (8) </title>
             </titleStmt>
             <respStmt>
                 <persName> Арюна Доржихандаева </persName>
