@@ -1,24 +1,4 @@
 <TEI>
-	<teiHeader> Отрывок 7 </teiHeader>   
-        <fileDesc>
-            <titleStmt>
-               <title> А.А. Бестужев-Мерлинсикий "Мулла-нур" </title>
-            </titleStmt>
-            <respStmt>
-                <persName> Арюна Доржихандаева </persName>
-                <resp> выделение в тексте прямой речи </resp>
-            </respStmt>
-         </fileDesc>
-    </teiHeader>
-    <text>
-		<speech><said type="direct"aloud="true"> О, ты мой гюл ииси (ты мой запах розы)! </said></speech>
-		<author_comment>- <speech_verb>сказала</speech_verb> она,</author_comment>
-		<speech><said type="direct"aloud="true"> Если б мой племянник Искендер-бек услыхал хоть за стеной твою песню, он бы разбил стену грудью, чтобы увидать певицу; а если б увидал, то похитил бы тебя, как лев серну. </said></speech>
-    </text>
-</TEI>
-
-
-<TEI>
 	<teiHeader> Отрывок 1 </teiHeader>   
         <fileDesc>
             <titleStmt>
@@ -144,6 +124,28 @@ TEI>
 		<speech><said type="direct"aloud="true"> А что говорит твое сердечко, малютка моя? </said></speech>
 		<author_comment>- <speech_verb="emotion="laugh"> возразила </speech_verb> Аджа-Ханум </author_comment>
 	</text>
+</TEI>
+
+
+
+
+<TEI>
+	<teiHeader> Отрывок 7 </teiHeader>   
+        <fileDesc>
+            <titleStmt>
+               <title> А.А. Бестужев-Мерлинсикий "Мулла-нур" </title>
+            </titleStmt>
+            <respStmt>
+                <persName> Арюна Доржихандаева </persName>
+                <resp> выделение в тексте прямой речи </resp>
+            </respStmt>
+         </fileDesc>
+    </teiHeader>
+    <text>
+		<speech><said type="direct"aloud="true"> О, ты мой гюл ииси (ты мой запах розы)! </said></speech>
+		<author_comment>- <speech_verb>сказала</speech_verb> она,</author_comment>
+		<speech><said type="direct"aloud="true"> Если б мой племянник Искендер-бек услыхал хоть за стеной твою песню, он бы разбил стену грудью, чтобы увидать певицу; а если б увидал, то похитил бы тебя, как лев серну. </said></speech>
+    </text>
 </TEI>
 
 
