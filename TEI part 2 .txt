@@ -34,7 +34,7 @@
 На <placeName> Марсовы поля </placeName> звала бы слава нас,
 И земледельчески б преобратились руки
 В военны подвиги, их песни — в бранны звуки;
-Но <persName> я </persName> оставила друзей и чад моих
+Но <person xml:id="7410"><persName> я </persName></person> оставила друзей и чад моих
 Рачение иметь о житницах своих;
 По селам и лугам их песни раздаются.
 Не многи воины со мною остаются!
@@ -45,13 +45,13 @@
 Оливну ветвь держащ, возводит тихий взор
 На тучности долин, и на зеленость гор,
 На класы желтые, на паствы, на оливы;
-Извне имея брань, внутрь царства <person xml:id="7984"><persName> мы счастливы </persName></person>
+Извне имея брань, внутрь царства <person xml:id="7984"><persName> мы </persName></person> счастливы 
 Тогда почувствуем, что с вами <person xml:id="7984"><persName> мы </persName></person> в войне,
 Как ваших гром побед услышим в тишине.
 Так всякая страна счастливой наречется,
 В которой мудрый <persName> царь </persName> о подданных печется».
 
-Сие России дух, Стамбул, тебе речет;
+Сие России дух, <placeName> Стамбул </placeName>, тебе речет;
 Но враг, рассвирепев, на пагубу течет,
 На персях у себя он язвы зрит глубоки
 И крови собственной текущие потоки;
@@ -76,9 +76,9 @@
 Европа! не дивись, на наши зря дела:
 Полночный скипетр здесь  <person xml:id="2341"><persName> Минерва </persName></person> приняла,
 <person xml:id="2341"><persName> Она </persName></person> со славою ликует на престоле;
-<person xml:id="2341"><persName> Екатерина </persName></person> здесь, и не скажу я боле!
-О славе дел ее гремит повсюду слух;
-Предшествует в морях ее героям дух,
+<person xml:id="2341"><persName> Екатерина </persName></person> здесь, и не скажу <person xml:id="7410"><persName> я </persName></person> боле!
+О славе дел <person xml:id="2341"><persName> ее </persName></person> гремит повсюду слух;
+Предшествует в морях <person xml:id="2341"><persName> ее </persName></person> героям дух,
 <person xml:id="2341"><persName> Она </persName></person> бессмертными себя делами славит;
 <person xml:id="2341"><persName> Минерва </persName></person> ли весь мир дивиться не заставит!
 
@@ -95,14 +95,14 @@
 И лавры отдает лакедемонцам новым,2
 Ко <placeName> Чесме </placeName> двигшимся с <person xml:id="1234"><persName> Спиридовым </persName></person>, с <person xml:id="5678"><persName> Орловым </persName></person>.
 
-Дай крылья, муза, мне, к <placeName> Морее </placeName> прелечу;
+Дай крылья, муза,<person xml:id="7410"><persName> мне </persName></person>, к <placeName> Морее </placeName> прелечу;
 Дай лиру! брань воспеть Чесмесскую хочу,
 В бессмертие ее история включает:
 Она бессмертием и песнь мою венчает.
 
 ПЕСНЬ ВТОРАЯ
 Восстань, <person xml:id="3698"><persName> певец богов </persName></person>, <person xml:id="3698"><persName> великий муж </persName></person>, восстань,
-Учи меня вещать, <person xml:id="3698"><persName> Гомер </persName></person>, Чесмесску брань!
+Учи <person xml:id="7410"><persName> меня </persName></person> вещать, <person xml:id="3698"><persName> Гомер </persName></person>, Чесмесску брань!
 <person xml:id="3698"><persName> Ты </persName></person> в памяти своих героев нам оставил,
 Которых подвиги под древней <placeName> Троей славил </placeName>;
 Рождает таковых Российская страна
